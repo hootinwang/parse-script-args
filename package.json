@@ -17,5 +17,17 @@
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.21"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hootinwang/parse-script-args.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hootinwang/parse-script-args/issues"
+  },
+  "homepage": "https://github.com/hootinwang/parse-script-args#readme"
 }
