@@ -1,0 +1,21 @@
+{
+  "name": "parse-script-args",
+  "version": "1.0.5",
+  "description": "用于解析脚本参数",
+  "main": "main.js",
+  "scripts": {
+    "test": "node tests/test.js -name test-server"
+  },
+  "keywords": [
+    "nodejs",
+    "script",
+    "js",
+    "shell",
+    "args"
+  ],
+  "author": "HootinWang",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
